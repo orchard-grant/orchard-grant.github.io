@@ -1,10 +1,11 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
+title: "About Grant Orchard"
+subtitle: "My Data Science Portfolio"
 # use quarto markdown to 
 ---
 
 # Title 1 Header
-## Title 2 Header
+
+My name is Grant Orchard and I am currently a student at BYU-Idaho. I am seeking a degree in Data Science with a minor in Statistics. I haven't don't many projects, but I am willing to learn and I am new in my major. I want to work for a Data Consulting Firm upon graduation and one day begin my own Data Consulting Firm, bringing in my own clients.
 
 [MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
